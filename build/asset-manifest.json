@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.js": "/static/js/main.61fbc55f.js",
+    "static/media/navbar_logo.svg": "/static/media/navbar_logo.c8eefff8588f96fa7bbf58f05c7c6e1a.svg",
+    "index.html": "/index.html",
+    "main.61fbc55f.js.map": "/static/js/main.61fbc55f.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.61fbc55f.js"
+  ]
+}
